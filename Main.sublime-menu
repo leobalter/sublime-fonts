@@ -1,0 +1,15 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Fonts",
+                "children":
+                [
+                    { "caption": "Show", "command": "fonts" }
+                ]
+            }
+        ]
+    }
+]
